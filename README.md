@@ -49,7 +49,7 @@ For assembly and soldering instructions, please refer to the provided **Assembly
 
 3. **File Selection**  
    When using a new SD card, pressing "Enter" on SPIISD will display empty slots for Disk 1 to 4. Press the corresponding number key to enter file selection mode, choose the desired file, and press "Enter."  
-
+<img src="PIC/IMG_2854.jpeg" width="520px">
 4. **Automatic `config.txt` Creation**  
    Once a file is selected, a `config.txt` file will be generated in the root directory of the SD card. This file acts as an index of boot files. After setup, SPIISD will read the `config.txt` file on every boot.  
 
