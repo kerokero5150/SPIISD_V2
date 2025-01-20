@@ -48,12 +48,13 @@ For assembly and soldering instructions, please refer to the provided **Assembly
    Ensure that there is no active access between Apple II and SPIISD during connection. Performing button operations on SPIISD while it is accessed by Apple II may cause the system to freeze. If a freeze occurs, power off the Apple II and restart.  
 
 3. **File Selection**  
-   When using a new SD card, pressing "Enter" on SPIISD will display empty slots for Disk 1 to 4. Press the corresponding number key to enter file selection mode, choose the desired file, and press "Enter."  
+   When using a new SD card, pressing "Enter" on SPIISD will display empty slots for Disk 1 to 4. Press the corresponding number key to enter file selection mode, choose the desired file, and press "Enter."
+<img src="PIC/IMG_2852.jpeg" width="520px">   
 <img src="PIC/IMG_2854.jpeg" width="520px">
-4. **Automatic `config.txt` Creation**  
+5. **Automatic `config.txt` Creation**  
    Once a file is selected, a `config.txt` file will be generated in the root directory of the SD card. This file acts as an index of boot files. After setup, SPIISD will read the `config.txt` file on every boot.  
 
-5. **Booting Based on Machine**  
+6. **Booting Based on Machine**  
    Boot order may vary depending on the Apple II model in use. For example:  
    - For Apple IIc with ROM 4x, the system automatically recognizes and boots.  
    - For Apple IIe with SoftSP (Grappler Minus) and Disk II cards, press `CTL + RST` and input the command `PR#<SoftSP card slot number>` to boot.  
