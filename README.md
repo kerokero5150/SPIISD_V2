@@ -63,4 +63,4 @@ For assembly and soldering instructions, please refer to the provided **Assembly
 ---
 ### Where to buy
 
-Comming soon
+Coming soon
