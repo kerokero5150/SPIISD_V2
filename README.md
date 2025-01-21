@@ -76,5 +76,8 @@ We are currently developing a dedicated jig to allow updating the Arduino Nano b
 
 ---
 
-SPIISD V2 is based on an open source project "SmartPortSD". Special thanks to: Robert Justice, Andrea Ottaviani and Katherine Stark.
+SPIISD V2 is based on an open source project [SmartPortSD](https://gitlab.com/nyankat/smartportsd). Special thanks to: Robert Justice, Andrea Ottaviani and Katherine Stark.
+
+(C) 2025 Kero's Mac Mods, Kay Koba
+
 
