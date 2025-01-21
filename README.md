@@ -28,8 +28,8 @@ Please note that V2 is a closed-source release. For more details, please refer t
 - **User-Friendly Assembly**  
   The kit consists entirely of DIP components, with all parts placed on the top layer of the PCB. Soldering is done exclusively from the back layer, requiring no advanced soldering skills. For users who are not confident in soldering, we also offer pre-assembled and tested SPIISD units with guaranteed functionality.  
 
-For assembly and soldering instructions, please refer to the provided [**Assembly Guide**](PDF
-/SP2SD＿V2_DIY_assembly guide1.pdf).  
+For assembly and soldering instructions, please refer to the provided [**Assembly Guide**]([PDF
+/SP2SD＿V2_DIY_assembly guide1.pdf](https://github.com/kerokero5150/SPIISD_V2/blob/main/PDF/SP2SD＿V2_DIY_assembly%20guide1.pdf)).  
 
 ---
 
