@@ -2,6 +2,7 @@
 
 ### SPIISD V2.0 Release Notes  
 <img src="PIC/IMG_2847.jpeg" width="520px">
+
 In SPIISD V1, it was not possible to visually inspect image files, and the V2 main goal was to operate the system using an LCD and buttons. However, some users experienced difficulties creating image files or made near-miss mistakes with file suffixes in the V1. In V2, there are no suffix rules for compatible image files, and users can simply select files using button operations.  
 
 Please note that V2 is a closed-source release. For more details, please refer to [my blog](https://ameblo.jp/keroxiee1016/entry-12875583265.html). We would like to special thank [Wing Yeung](http://www.mfa2lab.com) for helping with the V2.0 program. 
