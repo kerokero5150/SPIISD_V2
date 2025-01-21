@@ -8,8 +8,6 @@ In SPIISD V1, it was not possible to visually inspect image files, and the V2 ma
 
 Please note that V2 is a closed-source release. For more details, please refer to [my blog](https://ameblo.jp/keroxiee1016/entry-12875583265.html). We would like to special thank [Wing Yeung](http://www.mfa2lab.com) for helping with the V2.0 program. 
 
-SPIISD V2 is based on an open source project "SmartPortSD". Special thanks to: Robert Justice, Andrea Ottaviani and Katherine Stark.
-
 ---
 
 ### Upgrades in SPIISD V2.0  
