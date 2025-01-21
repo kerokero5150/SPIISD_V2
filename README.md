@@ -74,3 +74,7 @@ Most of the Arduino NANO units currently available for sale are Chinese-made clo
 To address this, as part of the preparation before shipping to users, we update the bootloader to the latest version and then upload our custom program to ensure it is ready for use upon ship.
 We are currently developing a dedicated jig to allow updating the Arduino Nano bootloader via the 6-pin ICSP. Once this is completed, we will be able to update the bootloader without soldering. Future shipments will no longer require pin headers to be soldered.
 
+---
+
+SPIISD V2 is based on an open source project "SmartPortSD". Special thanks to: Robert Justice, Andrea Ottaviani and Katherine Stark.
+
