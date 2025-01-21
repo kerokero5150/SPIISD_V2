@@ -63,7 +63,7 @@ For assembly and soldering instructions, please refer to the provided [**Assembl
 ---
 ### Where to buy
 
-Coming soon<BR><BR>
+You can buy it in [our store](https://en.infinityproducts.co.jp/product-page/spiisd-v2-diy-kit). The standard kit is 32 USD. V2 to DB19 adapter is optional (8 USD).<BR><BR>
 <img src="PIC/IMG_2751_s.jpeg" width="520px">
 <BR>
 
