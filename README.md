@@ -8,7 +8,6 @@ In SPIISD V1, it was not possible to visually inspect image files, and the V2 ma
 
 Please note that V2 is a closed-source release. For more details, please refer to [my blog](https://ameblo.jp/keroxiee1016/entry-12875583265.html). We would like to special thank [Wing Yeung](http://www.mfa2lab.com) for helping with the V2.0 program. 
 SPIISD V2 is based on an open source project called SmartPortSD. 
-Special tahnks: [Robert Justice](https://web.archive.org/web/20230222233834/http://www.users.on.net/~rjustice/SmartportCFA/SmartportCFA.htm), [Andrea Ottaviani](https://github.com/aotta?fbclid=IwAR0_7cMKVhMVrHznB9bIub9ZmrmBlwAM3p6-_CQd0JFW1o736nUNZHyuTdw). [Katherine Stark](https://gitlab.com/nyankat/smartportsd).
 
 ---
 
