@@ -69,6 +69,6 @@ Coming soon<BR><BR>
 
 For the early SPIISD KIT, pin headers were soldered from the beginning. This was necessary because the firmware and bootloader had to be updated through the pin headers.
 Most of the Arduino NANO units currently available for sale are Chinese-made clones, and we also use them. However, the bootloader used in these clones are quite outdated, which causes a significant delay in initializing the microcontroller and starting the program after powering on. This led to some issues.
-To address this, as part of the preparation before shipping to users, we update the bootloader to the latest version and then upload our custom program to ensure it is ready for use upon delivery.
+To address this, as part of the preparation before shipping to users, we update the bootloader to the latest version and then upload our custom program to ensure it is ready for use upon ship.
 We are currently developing a dedicated jig to allow updating the Arduino Nano bootloader via the 6-pin ICSP. Once this is completed, we will be able to update the bootloader without soldering. Future shipments will no longer require pin headers to be soldered.
 
