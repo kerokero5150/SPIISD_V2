@@ -2,7 +2,7 @@
 
 ### SPIISD V2.0 Release Notes  
 <img src="PIC/IMG_2847.jpeg" width="520px">
-In [V1](https://github.com/kerokero5150/SP2SD_DIY_KIT), it was not possible to visually inspect image files, and the main goal was to operate the system using an LCD and buttons. However, some users experienced difficulties creating image files or made near-miss mistakes with file suffixes. In V2, there are no suffix rules for compatible image files, and users can simply select files using button operations.  
+In [SPIISD V1](https://github.com/kerokero5150/SP2SD_DIY_KIT), it was not possible to visually inspect image files, and the main goal was to operate the system using an LCD and buttons. However, some users experienced difficulties creating image files or made near-miss mistakes with file suffixes. In V2, there are no suffix rules for compatible image files, and users can simply select files using button operations.  
 
 Please note that V2 is a closed-source release. For more details, please refer to [my blog](https://ameblo.jp/keroxiee1016/entry-12875583265.html).  
 
