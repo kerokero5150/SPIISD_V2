@@ -39,7 +39,7 @@ For assembly and soldering instructions, please refer to the provided [**Assembl
 1. **Format the MicroSD Card**  
    Format the MicroSD card to FAT32 (FAT16 is also acceptable). Most commercially available SD cards are pre-formatted to FAT32. Place a 32MB ProDOS disk image file on the card. Supported file extensions for SPIISD are `.po`, `.2mg`, and `.hdv`.  
 
-   In Version 2, image files no longer need to be placed in the root directory. Files can be selected from subdirectories, allowing for better organization by creating folders on a PC.  
+   In SPIISD V2, image files no longer need to be placed in the root directory. Files can be selected from subdirectories, allowing for better organization by creating folders on a PC.  
 
    For creating new image files, we recommend using DiskJockey:  
    [https://diskjockey.onegeekarmy.eu](https://diskjockey.onegeekarmy.eu)  
