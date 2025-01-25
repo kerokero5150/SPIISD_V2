@@ -47,6 +47,7 @@ For assembly and soldering instructions, please refer to the provided [**Assembl
    While file suffixes are not restricted, please ensure file names use English alphanumeric characters. Non-English characters may cause garbled text.
 
    	Note: The SD card board is installed on the SPIISD main board upside down, so please remember to insert the SD card upside down as well.
+   <img src="PIC/IMG_2890.jpeg" width="520px">
 
 3. **Connect SPIISD to Apple II and Boot Up**  
    Ensure that there is no active access between Apple II and SPIISD during connection. Performing button operations on SPIISD while it is accessed by Apple II may cause the system to freeze. If a freeze occurs, power off the Apple II and restart.  
