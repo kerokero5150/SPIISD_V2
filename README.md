@@ -44,12 +44,14 @@ For assembly and soldering instructions, please refer to the provided [**Assembl
    For creating new image files, we recommend using DiskJockey:  
    [https://diskjockey.onegeekarmy.eu](https://diskjockey.onegeekarmy.eu)  
 
-   While file suffixes are not restricted, please ensure file names use English alphanumeric characters. Non-English characters may cause garbled text.  
+   While file suffixes are not restricted, please ensure file names use English alphanumeric characters. Non-English characters may cause garbled text.
 
-2. **Connect SPIISD to Apple II and Boot Up**  
+   	Note: The SD card board is installed on the SPIISD main board upside down, so please remember to insert the SD card upside down as well.
+
+3. **Connect SPIISD to Apple II and Boot Up**  
    Ensure that there is no active access between Apple II and SPIISD during connection. Performing button operations on SPIISD while it is accessed by Apple II may cause the system to freeze. If a freeze occurs, power off the Apple II and restart.  
 
-3. **File Selection**  
+4. **File Selection**  
    When using a new SD card, pressing "Enter" on SPIISD will display empty slots for Disk 1 to 4. Press the corresponding number key to enter file selection mode, choose the desired file, and press "Enter."
 <img src="PIC/IMG_2852.jpeg" width="520px">   
 <img src="PIC/IMG_2854.jpeg" width="520px">
