@@ -74,6 +74,13 @@ You can buy it in [our store](https://en.infinityproducts.co.jp/product-page/spi
 
 
 ---
+### Known issues
+
+For Apple II Desktop Users: Please note that in Apple II Desktop, go to **Control Panel > Options > Copy to RAM Card (if present)** and ensure it is turned **off**. If this option is set to **on**, it has been confirmed that SPIISD will not be recognized and the system will fail to boot.<BR><BR>
+
+Do not press the SPIISD buttons while both the SPIISD and the Apple II are accessing data (when the LED is blinking). Doing so may cause both devices to freeze, or one of them to freeze. In such cases, turn off the power and restart from the beginning. To prevent the Apple II from accessing the Smartport, it is recommended to hold down CTRL+RST.<BR><BR>
+
+---
 
 SPIISD V2 is based on an open source project [SmartPortSD](https://gitlab.com/nyankat/smartportsd). Special thanks to: Robert Justice, Andrea Ottaviani and Katherine Stark.
 
