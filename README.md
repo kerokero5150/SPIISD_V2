@@ -63,7 +63,7 @@ For assembly and soldering instructions, please refer to the provided [**Assembl
 6. **Booting Based on Machine**  
    Boot order may vary depending on the Apple II model in use. For example:  
    - For Apple IIc with ROM 4x, the system automatically recognizes and boots.  
-   - For Apple IIe with [Grappler Minus](https://en.infinityproducts.co.jp/product-page/grappler-minus-fully-assembled-card-or-bare-pcb)(SoftSP)and Disk II cards, press `CTL + RST` and input the command `PR#<Grappler Minus slot number>` to boot.  
+   - For Apple IIe with [Grappler Minus](https://en.infinityproducts.co.jp/product-page/grappler-minus-fully-assembled-card-or-bare-pcb)(SoftSP)and Disk II cards, press `CTL + RST` and input the command `PR#<Grappler Minus slot number>` to boot.  *If GrapplerMinus is inserted at slot number 5, it will become `PR#5`.
    - For other cards, refer to the card's instructions.
   
 Detailed usage instructions [**here**](https://github.com/kerokero5150/SPIISD_V2/blob/main/PDF/SPIISD_INST1.pdf).
