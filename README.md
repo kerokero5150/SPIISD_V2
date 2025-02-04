@@ -13,7 +13,7 @@ Please note that V2 is a closed-source release. For more details, please refer t
 ### Upgrades in SPIISD V2.0  
 
 - **Improved Usability**  
-  The system now features LCD support and button operation, making it easier to use. SPI-compatible LCDs can be used, with [Three different size models] (https://ameblo.jp/keroxiee1016/entry-12882949657.html)confirmed to work perfectly. A stylish splash screen is displayed immediately upon powering on. Unlike Version 1, there is no eject button; therefore, if you want to use a single image, make sure to place the boot image at the top of the list. The button operation has been simplified to GND control, significantly reducing the number of components required.  
+  The system now features LCD support and button operation, making it easier to use. SPI-compatible LCDs can be used, with [Three different size models] (https://ameblo.jp/keroxiee1016/entry-12882949657.html) confirmed to work perfectly. A stylish splash screen is displayed immediately upon powering on. Unlike Version 1, there is no eject button; therefore, if you want to use a single image, make sure to place the boot image at the top of the list. The button operation has been simplified to GND control, significantly reducing the number of components required.  
 
 - **Faster Performance**  
   The system has been optimized for IIc Plus and IIgs, offering improved speed.  
