@@ -4,4 +4,5 @@ The 3D-printed shell case was designed by Alan Williams. Essentially, you only n
 
 <img src="IMG_3035.jpeg" width="520px">
 <img src="IMG_3027.jpeg" width="520px">
+If you don't need the bezel you can use any size OLED.
 <img src="IMG_3036.jpeg" width="520px">
