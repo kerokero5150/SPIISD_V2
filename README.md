@@ -76,7 +76,11 @@ You can buy it in [our store](https://en.infinityproducts.co.jp/product-page/spi
 
 
 ---
-## Known issues
+## Model-specific tips and known issues
+
+### For Using with the IIc Plus
+To launch Smartport, press `Open-Apple + Control + Reset` . Maybe it takes some getting used to, but if you hold down `Open-Apple + Control + Reset`, then release the other keys keep holding `Open-Apple`, and finally release `Open-Apple`, it should work.
+
 
 ### For Using with the IIgs:
 Firmware up to V2.01 has a timing issue with only IIgs. Normally, when the IIgs cannot detect a bootable device, "**Check Startup Device!**" is displayed.. 
