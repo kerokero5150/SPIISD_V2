@@ -83,7 +83,7 @@ To launch Smartport, press `Open-Apple + Control + Reset` . Maybe it takes some 
 
 
 ### For Using with the IIgs:
-Firmware up to V2.01 has a timing issue with only IIgs. *Other models can be used without any problems.<BR>
+Firmware up to V2.01 has a timing issue with only IIgs. *Other AppleII-models can be booted without any timing issues.<BR>
 Normally, when the IIgs cannot detect a bootable device, "**Check Startup Device!**" is displayed.
 But you can restart it by pressing `Command (Open-Apple) + Control + Power Key` at the same time to boot correctly. We are currently shipping V2.02, but the very first few units may be V2.01. If your SPIISD is using firmware earlier than V2.01, an update is possible, so please [contact us](https://www.kerosmm.com/お問い合わせ).<BR><BR>
 If the SPIISD does not work on your IIgs, remove any other boot devices or boot cards. 
