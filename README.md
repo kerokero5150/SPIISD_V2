@@ -78,6 +78,8 @@ You can buy it in [our store](https://en.infinityproducts.co.jp/product-page/spi
 
 Alan Williams's [Case](https://github.com/kerokero5150/SPIISD_V2/tree/main/Case)
 <img src="Case/IMG_3027.jpeg" width="520px">
+Stephen Arsenault's [Case](https://makerworld.com/en/models/1227482-spiisd-v2-shell#profileId-1245605)
+<img src="PIC/IMG_3429.jpeg" width="520px">
 ---
 ## Model-specific tips and known issues
 
