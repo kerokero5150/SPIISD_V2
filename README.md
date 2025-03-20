@@ -73,8 +73,11 @@ Detailed usage instructions [**here**](https://github.com/kerokero5150/SPIISD_V2
 You can buy it in [our store](https://en.infinityproducts.co.jp/product-page/spiisd-v2-diy-kit). The standard kit is 32 USD. V2 to DB19 adapter is optional (8 USD).<BR><BR>
 <img src="PIC/IMG_2751_s.jpeg" width="520px">
 <BR>
+---
+### 3D Printed Shell Case
 
-
+Alan Williams's [Case](https://github.com/kerokero5150/SPIISD_V2/tree/main/Case)
+<img src="Case/IMG_3027.jpeg" width="520px">
 ---
 ## Model-specific tips and known issues
 
