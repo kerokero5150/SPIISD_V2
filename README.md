@@ -82,7 +82,9 @@ Alan Williams's [Case](https://github.com/kerokero5150/SPIISD_V2/tree/main/Case)
 <img src="Case/IMG_3027.jpeg" width="520px"> <BR><BR>
 Javier Revera's [Case](https://www.thingiverse.com/thing:6983716) <BR>
 <img src="PIC/javier_case1.jpeg" width="300px"><BR><BR>
-I would like to special thanks the three case designers mentioned above!
+
+I would like to special thanks the three case designers mentioned above!<BR>
+
 ---
 ## Model-specific tips and known issues
 
