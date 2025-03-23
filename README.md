@@ -77,11 +77,12 @@ You can buy it in [our store](https://en.infinityproducts.co.jp/product-page/spi
 ### 3D Printed Shell Case
 
 Stephen Arsenault's [Case](https://makerworld.com/en/models/1227482-spiisd-v2-shell#profileId-1245605) <BR>
-<img src="PIC/IMG_3429.jpg" width="300px">
+<img src="PIC/IMG_3429.jpg" width="300px"><BR><BR>
 Alan Williams's [Case](https://github.com/kerokero5150/SPIISD_V2/tree/main/Case) <BR>
 <img src="Case/IMG_3027.jpeg" width="520px"> <BR><BR>
 Javier Revera's [Case](https://www.thingiverse.com/thing:6983716) <BR>
-<img src="PIC/javier_case1.jpeg" width="300px">
+<img src="PIC/javier_case1.jpeg" width="300px"><BR><BR>
+I would like to special thanks the three case designers mentioned above!
 ---
 ## Model-specific tips and known issues
 
